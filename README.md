@@ -19,7 +19,9 @@ RienConnectify là ứng dụng mạng xã hội full-stack tự phát triển b
 - **Tháng 08**: Hoàn thiện đăng nhập, feed, profile, đăng bài.  
 - **Tháng 09**: Thêm chat, cải tiến UI toàn hệ thống (Material Design 3).  
 - **Tháng 10**: Build APK, test trên thiết bị thật. Chuẩn bị cho giai đoạn tối ưu và ra mắt.
-- **Cập nhật 28/10/2025**: Cập nhật chức năng chat E2EE ở mức độ thử nghiệm là một chế độ tùy chọn trong chat 1-1 để giữ lại tốc độ tải của trải nghiệm người dùng. (Các tin nhắn bắt đầu ở chế độ không khôi phục được mỗi khi xóa ứng dụng và cài đặt lại).
+- **Cập nhật 28/10/2025**: Cập nhật chức năng chat E2EE
+                            - Chế độ tùy chọn trong chat 1-1 (giữ lại tốc độ tải của trải nghiệm người dùng.)
+                            - Các tin nhắn ở chế độ E2EE không khôi phục được mỗi khi xóa ứng dụng và cài đặt lại.
 
 ## Triết lý
 > “Tôi nhận thấy đã đủ để chuẩn bị ra mắt — sau khi nâng cấp hệ thống và chỉ định mục tiêu rõ ràng hơn cho ứng dụng.”  
@@ -27,7 +29,7 @@ RienConnectify là ứng dụng mạng xã hội full-stack tự phát triển b
 
 ## Tải APK
 - File APK đã được build, đăng ký SHA-1 và SHA-256.  
-- Tải tại: `/release/RienConnectify_v1.4.0.apk` (trong thư mục release)
+- Tải tại: `/release/RienConnectify_v1.5.0.apk` (trong thư mục release)
   
 
 ## Góp ý & Hợp tác
